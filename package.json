@@ -1,6 +1,6 @@
 {
   "name": "sitemap-js-obj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Develop a module that will generate a sitemap javascript object from the folder structure crawling HTML files only.",
   "main": "index.js",
   "scripts": {
