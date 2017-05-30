@@ -1,34 +1,34 @@
 {
-  "name": "sitemap-js-obj",
-  "version": "0.0.2",
-  "description": "Develop a module that will generate a sitemap javascript object from the folder structure crawling HTML files only.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha --reporter spec"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ariffma/sitemap-js-obj.git"
-  },
-  "keywords": [
-    "sitemap",
-    "javascript",
-    "object",
-    "crawling",
-    "html",
-    "files"
-  ],
-  "author": "Ahmad Rifaii <ariffmalor@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ariffma/sitemap-js-obj/issues"
-  },
-  "engines": {
-    "node": ">=4.2.4"
-  },
-  "homepage": "https://github.com/ariffma/sitemap-js-obj#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.4.2"
-  }
+    "name": "sitemap-js-obj",
+    "version": "0.0.2",
+    "description": "Generate a sitemap javascript object from the folder structure crawling HTML files only.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ariffma/sitemap-js-obj.git"
+    },
+    "keywords": [
+        "sitemap",
+        "javascript",
+        "object",
+        "crawling",
+        "html",
+        "files"
+    ],
+    "author": "Ahmad Rifaii <ariffmalor@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ariffma/sitemap-js-obj/issues"
+    },
+    "engines": {
+        "node": ">=4.2.4"
+    },
+    "homepage": "https://github.com/ariffma/sitemap-js-obj#readme",
+    "devDependencies": {
+        "extfs": "0.0.7",
+        "path": "^0.12.7",
+    }
 }
